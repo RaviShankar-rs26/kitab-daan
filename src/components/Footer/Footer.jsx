@@ -13,7 +13,7 @@ const Footer = () => {
           <p className="text-sm mt-2">
             Designed with ❤️ by{" "}
             <a action="_blank" href="https://github.com/shubham-maurya-sm">
-              Ravi Shankar
+              Ravi Shankar Singh
             </a>
           </p>
         </div>
